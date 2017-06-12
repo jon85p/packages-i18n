@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: opensuse-i 18n\n"
 "POT-Creation-Date: 2016-11-08 18:34:07\n"
-"PO-Revision-Date: 2016-02-02 01:17:11\n"
+"PO-Revision-Date: 2017-06-11 23:04-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -11,6 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.9\n"
 
 #. tumbleweed/python-scgi/apache2-mod_scgi/summary
 #. leap/python-scgi/apache2-mod_scgi/summary
@@ -37,7 +38,7 @@ msgstr ""
 #. tumbleweed/python3-gst/gstreamer-plugin-python/summary
 #. leap/python3-gst/gstreamer-plugin-python/summary
 msgid "GStreamer 1.0 plugin for python"
-msgstr ""
+msgstr "Complemento de GStreamer 1.0 para python"
 
 #. tumbleweed/python3-gst/gstreamer-plugin-python/description
 #. tumbleweed/python-gst/description
@@ -53,6 +54,8 @@ msgid ""
 "This module contains a wrapper that allows GStreamer applications to be "
 "written in Python."
 msgstr ""
+"Este módulo contiene una cubierta (wrapper) que permite a aplicaciones "
+"GStramer ser escritas en Python"
 
 #. tumbleweed/python-base/libpython2_7-1_0/summary
 #. tumbleweed/python3-base/libpython3_5m1_0/summary
@@ -69,7 +72,6 @@ msgstr "Biblioteca compartida del intérprete Python"
 #. tumbleweed/python-base/libpython2_7-1_0-32bit/description
 #. leap/python-base/libpython2_7-1_0/description
 #. leap/python-base/libpython2_7-1_0-32bit/description
-#, fuzzy
 msgid ""
 "Python is an interpreted, object-oriented programming language, and is often "
 "compared to Tcl, Perl, Scheme, or Java.  You can find an overview of Python "
@@ -84,7 +86,7 @@ msgstr ""
 "en la documentación y tutoriales incluidos en los paquetes [pkg://python-"
 "doc] (HTML) o bien [pkg://python-doc-pdf] (PDF).\n"
 "\n"
-"Este paquete contiene la biblioteca compartida libpython2.6 para su "
+"Este paquete contiene la biblioteca compartida libpython2.7 para su "
 "empotramiento en otras aplicaciones."
 
 #. tumbleweed/python3-base/libpython3_5m1_0/description
@@ -100,6 +102,13 @@ msgid ""
 "This package contains libpython3.2 shared library for embedding in other "
 "applications."
 msgstr ""
+"Python es un lenguaje de programación interpretado, orientado a objetos y "
+"frecuentemente comparado con lenguajes como Tcl, Perl, Scheme o Java. Puedes "
+"encontrar una visión general en la documentación y tutoriales incluídos en "
+"los paquetes python-doc (HTML) o python-doc-pdf (PDF). \n"
+"\n"
+"Este paquete contiene la libraría compartida libpython3.2 para embedirla en "
+"otras aplicaciones."
 
 #. tumbleweed/qscintilla/libqscintilla-devel/description
 #. tumbleweed/qscintilla-qt5/libqscintilla-qt5-devel/description
@@ -135,7 +144,7 @@ msgstr ""
 #. leap/python3-pyside-shiboken/libshiboken-1_2_cpython-34m1_2/summary
 #. leap/python3-pyside-shiboken/summary
 msgid "Generate CPython 3 bindings from C++ code"
-msgstr ""
+msgstr "Genera enlaces CPython 3 desde código fuente C++"
 
 #. tumbleweed/python3-pyside-shiboken/libshiboken-1_2_cpython-35m-i386-linux-gnu1_2/description
 #. tumbleweed/python-pyside-shiboken/libshiboken-python2_7-1_2/description
@@ -151,6 +160,9 @@ msgid ""
 "BoostPythonGenerator from boost::python, but is designed to create smaller "
 "code."
 msgstr ""
+"Shiboken genera código C++ para extensiones de CPython. Es similar a "
+"BoostPythonGenerator desde boost::python, pero está diseñado para crear "
+"código más liviano."
 
 #. tumbleweed/python-pyside-shiboken/libshiboken-devel/summary
 #. leap/python-pyside-shiboken/libshiboken-devel/summary
@@ -164,13 +176,15 @@ msgid ""
 "Development libraries and headers needed to build software using python-"
 "pyside-shiboken"
 msgstr ""
+"Cabeceras y librerías de desarrollo requeridas para compilar programas "
+"usando python-pyside-shiboken"
 
 #. tumbleweed/python-pyside-shiboken/libshiboken-python2_7-1_2/summary
 #. tumbleweed/python-pyside-shiboken/summary
 #. leap/python-pyside-shiboken/libshiboken-python2_7-1_2/summary
 #. leap/python-pyside-shiboken/summary
 msgid "Generate CPython bindings from C++ code"
-msgstr ""
+msgstr "Genera enlaces CPython desde código fuente C++"
 
 #. tumbleweed/python3-pyside-shiboken/libshiboken-python3-devel/summary
 #. leap/python3-pyside-shiboken/libshiboken-python3-devel/summary
@@ -184,6 +198,8 @@ msgid ""
 "Development libraries and headers needed to build software using python3-"
 "pyside-shiboken"
 msgstr ""
+"Cabeceras y librerías de desarrollo requeridas para compilar programas "
+"usando python3-pyside-shiboken"
 
 #. tumbleweed/python/summary
 #. tumbleweed/python/python-32bit/summary
@@ -196,7 +212,6 @@ msgstr "Intérprete Python"
 #. tumbleweed/python/python-32bit/description
 #. leap/python/description
 #. leap/python/python-32bit/description
-#, fuzzy
 msgid ""
 "Python is an interpreted, object-oriented programming language, and is often "
 "compared to Tcl, Perl, Scheme, or Java.  You can find an overview of Python "
@@ -217,7 +232,7 @@ msgstr ""
 #. tumbleweed/python-4Suite-XML/summary
 #. leap/python-4Suite-XML/summary
 msgid "An open-source platform for XML processing"
-msgstr ""
+msgstr "Una plataforma de código abierto para procesamiento XML."
 
 #. tumbleweed/python-4Suite-XML/description
 #. leap/python-4Suite-XML/description
@@ -225,6 +240,8 @@ msgid ""
 "XML tools and libraries for Python: Domlette, XPath, XSLT, XPointer, XLink, "
 "XUpdate."
 msgstr ""
+"Herramientas y librerías XML para Python: Domlette, XPath, XSLT, XPointer, "
+"XLink, XUpdate"
 
 #. tumbleweed/python-BTrees/summary
 #. tumbleweed/python-BTrees/python-BTrees-devel/summary
@@ -247,6 +264,15 @@ msgid ""
 "semantics are presented in detail through examples of a sample data manager "
 "in BTrees.tests.test_SampleDataManager."
 msgstr ""
+"Este paquete contiene una implementación genérica de árboles binarios de "
+"búsqueda. Es principalmente usada por ZODB.\n"
+"\n"
+"Notar que la API de administración de datos, BTrees.Interfaces.IDataManager, "
+"es sintácticamente simple, pero semánticamente compleja. Las reglas "
+"semánticas no son fáciles de expresar en la interfaz. Esto podría "
+"probablemente causar que se deba realizar más trabajo. La semántica es "
+"presentada en detalle por medio de ejemplos desde un administrador de datos "
+"de ejemplo en BTrees.tests.test_SampleDataManager"
 
 #. tumbleweed/python-BTrees/python-BTrees-devel/description
 #. leap/python-BTrees/python-BTrees-devel/description
@@ -265,9 +291,8 @@ msgstr "Este paquete contiene documentación para yast2-nis-server"
 #. tumbleweed/python-Bottleneck/summary
 #. tumbleweed/python3-Bottleneck/summary
 #. leap/python3-Bottleneck/summary
-#, fuzzy
 msgid "A collection of fast NumPy array functions"
-msgstr "Una colección de librerías de juego útiles"
+msgstr "Una colección de librerías de funciones rápidas de NumPy"
 
 #. tumbleweed/python-Bottleneck/description
 #. tumbleweed/python3-Bottleneck/description
@@ -275,12 +300,13 @@ msgstr "Una colección de librerías de juego útiles"
 msgid ""
 "Bottleneck is a collection of fast NumPy array functions written in Cython."
 msgstr ""
+"Bottleneck es una colección de rápidas funciones de arreglos de NumPy "
+"escritas en Cython."
 
 #. tumbleweed/python-CDDB/summary
 #. leap/python-CDDB/summary
-#, fuzzy
 msgid "Python CDDB module"
-msgstr "Entorno de desarrollo integrado para Python"
+msgstr "Módulo Python CDDB"
 
 #. tumbleweed/python-CDDB/description
 #. leap/python-CDDB/description
@@ -291,11 +317,17 @@ msgid ""
 "online database of track listings and other information on audio CDs. UNIX "
 "platforms and Windows are both supported."
 msgstr ""
+"Tanto CDDB.py como DiscID.py, junto con su módulo C side-kick cdrommodule."
+"so, proveen una manera sencilla para programas Python para buscar "
+"información en CD's de audio desde CDDB (http://www.cddb.com/) -- Una gran "
+"base de datos en línea de pistas y otra información de discos de audio. "
+"Tanto plataformas Windows como UNIX son soportadas."
 
 #. tumbleweed/python-Cheetah/summary
 #. leap/python-Cheetah/summary
 msgid "Cheetah is a template engine and code generation tool"
 msgstr ""
+"Cheetah es un procesador de plantillas y herramienta de generación de código."
 
 #. tumbleweed/python-Cheetah/description
 #. leap/python-Cheetah/description
@@ -307,6 +339,13 @@ msgid ""
 "being used to generate C++ game code, Java, sql, form emails and even Python "
 "code."
 msgstr ""
+"Cheetah es un procesador de código abierto de plantillas y herramienta de "
+"generación de código.\n"
+"\n"
+"Puede ser usado como una aplicación como tal o combinarse con otras "
+"herramientas y entornos. El desarrollo web es su principal uso, pero Cheetah "
+"es muy flexible y también puede ser usado para código C++ de juegos, Java, "
+"SQL, formularios de correos e incluso código Python."
 
 #. tumbleweed/python-Cython/summary
 #. tumbleweed/python3-Cython/summary
@@ -314,6 +353,7 @@ msgstr ""
 #. leap/python3-Cython/summary
 msgid "The Cython compiler for writing C extensions for the Python language"
 msgstr ""
+"El compilador Cython para escribir extensiones C para el lenguaje Python"
 
 #. tumbleweed/python-Cython/description
 #. tumbleweed/python3-Cython/description
@@ -333,13 +373,27 @@ msgid ""
 "This makes Cython the ideal language for writing glue code for external C "
 "libraries, and for fast C modules that speed up the execution of Python code."
 msgstr ""
+"El lenguaje Cython permite escribir extensiones C para el lenguaje Python "
+"tan fácilmente como escribir en el mismo Python. Cython es un traductor de "
+"código fuente basado en el bien conocido Pyrex, pero soporta más "
+"funcionalidad precisa y optimizaciones.\n"
+"\n"
+"El lenguaje Cython es muy cercano al lenguaje Python (y la mayor parte del "
+"código Python es también código Cython válido), pero Cython adicionalmente "
+"soporta el llamado de funciones C y declaración de tipos C en variables y "
+"atributos de clases. Esto permite al compilador generar código C eficiente a "
+"partir de código Cython.\n"
+"\n"
+"Esto hace a Cython el lenguaje ideal para escribir código para librerías C "
+"externas, y para rápidos módulos C que aceleran la ejecución de programas "
+"Python."
 
 #. tumbleweed/python-Durus/summary
 #. tumbleweed/python3-Durus/summary
 #. leap/python-Durus/summary
 #. leap/python3-Durus/summary
 msgid "A Python Object Database"
-msgstr ""
+msgstr "Una base de datos objeto Python"
 
 #. tumbleweed/python-Durus/description
 #. tumbleweed/python3-Durus/description
@@ -349,13 +403,15 @@ msgid ""
 "Serves and manages changes to persistent objects being used in multiple "
 "client processes."
 msgstr ""
+"Sirve y administra cambios a objetos persistentes que son usados por "
+"múltiples procesos cliente."
 
 #. tumbleweed/python-Genshi/summary
 #. tumbleweed/python3-Genshi/summary
 #. leap/python-Genshi/summary
 #. leap/python3-Genshi/summary
 msgid "A toolkit for generation of output for the web"
-msgstr ""
+msgstr "Un toolkit para generación de salida para la web."
 
 #. tumbleweed/python-Genshi/description
 #. tumbleweed/python3-Genshi/description
@@ -367,6 +423,11 @@ msgid ""
 "output generation on the web. The major feature is a template language, "
 "which is heavily inspired by Kid."
 msgstr ""
+"Genshi es una librería Python que provee de un integrado conjunto de "
+"componentes para parsear, generar, y procesar HTML, XML u otros contenidos "
+"textuales para generación de contenido de salida en la web. La principal "
+"característica es un lenguaje de plantillas, que es altamente inspirado por "
+"Kid."
 
 #. tumbleweed/python-Genshi/python-Genshi-doc/summary
 #. tumbleweed/python3-Genshi/python3-Genshi-doc/summary
@@ -374,6 +435,7 @@ msgstr ""
 #. leap/python3-Genshi/python3-Genshi-doc/summary
 msgid "A toolkit for generation of output for the web - Documentation"
 msgstr ""
+"Un toolkit para generación de archivos de salida para la web - Documentación"
 
 #. tumbleweed/python-Genshi/python-Genshi-doc/description
 #. tumbleweed/python3-Genshi/python3-Genshi-doc/description
@@ -387,32 +449,39 @@ msgid ""
 "\n"
 "This package contains documentation and examples."
 msgstr ""
+"Genshi es una librería Python que provee de un integrado conjunto de "
+"componentes para parsear, generar, y procesar HTML, XML u otros contenidos "
+"textuales para generación de contenido de salida en la web. La principal "
+"característica es un lenguaje de plantillas, que es altamente inspirado por "
+"Kid.\n"
+"\n"
+"Este paquete contiene documentación y ejemplos"
 
 #. tumbleweed/python-GeoIP/summary
 #. tumbleweed/python3-GeoIP/summary
 #. leap/python-GeoIP/summary
 #. leap/python3-GeoIP/summary
-#, fuzzy
 msgid "Python bindings for the GeoIP geographical lookup libraries"
-msgstr "Enlaces Python para la biblioteca gtk-vnc"
+msgstr ""
+"Enlaces Python para la biblioteca GeoIP (librerías de localización "
+"geográfica)"
 
 #. tumbleweed/python-GeoIP/description
 #. tumbleweed/python3-GeoIP/description
 #. leap/python-GeoIP/description
 #. leap/python3-GeoIP/description
-#, fuzzy
 msgid ""
 "This package contains the Python bindings for the GeoIP API, allowing IP to "
 "location lookups to country, city and organisation level within Python code."
 msgstr ""
-"Este paquete permite ejecutar aplicaciones con sonido OSS utilizando el API "
-"de ALSA"
+"Este paquete contiene enlaces Python para la API de GeoIP, permitiendo una "
+"consulta desde una IP a país, ciudad y nivel organizacional con código "
+"Python."
 
 #. tumbleweed/python-Kivy/summary
 #. leap/python-Kivy/summary
-#, fuzzy
 msgid "Hardware-accelerated multitouch application library"
-msgstr "Monitor de la salud del hardware para Linux"
+msgstr "Librería de aplicación para aceleración multitouch por hardware."
 
 #. tumbleweed/python-Kivy/description
 #. leap/python-Kivy/description
@@ -421,11 +490,14 @@ msgid ""
 "applications that make use of innovative user interfaces, such as multi-"
 "touch apps."
 msgstr ""
+"Kivi es una librería de código abierto para desarrollo rápido de "
+"aplicaciones que hacen uso de innovadoras interfaces de usuario, como las "
+"aplicaciones multitouch."
 
 #. tumbleweed/python-Kivy/python-Kivy-devel/summary
 #. leap/python-Kivy/python-Kivy-devel/summary
 msgid "Development files for python-Kivy"
-msgstr ""
+msgstr "Archivos de desarrollo para la librería python-Kivy"
 
 #. tumbleweed/python-Kivy/python-Kivy-devel/description
 #. leap/python-Kivy/python-Kivy-devel/description
@@ -436,12 +508,16 @@ msgid ""
 "\n"
 "This package contains the headers and source files for extending kivy"
 msgstr ""
+"Kivi es una librería de código abierto para desarrollo rápido de "
+"aplicaciones que hacen uso de innovadoras interfaces de usuario, como las "
+"aplicaciones multitouch.\n"
+"\n"
+"Este paquete contiene las cabeceras y archivos fuente para extender Kivy."
 
 #. tumbleweed/python-Kivy/python-Kivy-doc/summary
 #. leap/python-Kivy/python-Kivy-doc/summary
-#, fuzzy
 msgid "Documentation for python-Kivy"
-msgstr "Documentación de gawk."
+msgstr "Documentación de python-Kivy"
 
 #. tumbleweed/python-Kivy/python-Kivy-doc/description
 #. leap/python-Kivy/python-Kivy-doc/description
@@ -452,11 +528,16 @@ msgid ""
 "\n"
 "This package contains the developer documentation and examples"
 msgstr ""
+"Kivi es una librería de código abierto para desarrollo rápido de "
+"aplicaciones que hacen uso de innovadoras interfaces de usuario, como las "
+"aplicaciones multitouch.\n"
+"\n"
+"Este paquete contiene la documentación de desarrollo y ejemplos."
 
 #. tumbleweed/python-Levenshtein/summary
 #. leap/python-Levenshtein/summary
 msgid "Python extension computing string distances and similarities"
-msgstr ""
+msgstr "Extensión Python para cálculo de distancias y similitudes de cadenas."
 
 #. tumbleweed/python-Levenshtein/description
 #. leap/python-Levenshtein/description
@@ -470,11 +551,18 @@ msgid ""
 "\n"
 "It supports both normal and Unicode strings."
 msgstr ""
+"El módulo de extensión C para Python Levenshtein contiene funciones para "
+"rápido cálculo de\n"
+"\n"
+"* Distancia Levenshtein y operaciones de edición * similitud de cadenas *, "
+"medias de cadenas aproximadas, y promedio de cadenas general.\n"
+"\n"
+"Soporta tanto normales como cadenas Unicode"
 
 #. tumbleweed/python-M2Crypto/summary
 #. leap/python-M2Crypto/summary
 msgid "Crypto and SSL toolkit for Python"
-msgstr ""
+msgstr "Toolkit Python para Criptografía y SSL"
 
 #. tumbleweed/python-M2Crypto/description
 #. leap/python-M2Crypto/description
@@ -487,6 +575,12 @@ msgid ""
 "session management. FTP/TLS client and server. S/MIME. ZServerSSL: A HTTPS "
 "server for Zope. ZSmime: An S/MIME messenger for Zope."
 msgstr ""
+"M2Crypto es un toolkit de criptografía y SSL para Python conteniendo lo "
+"siguiente:\n"
+"\n"
+"RSA, DSA, DH, HMACs, compendio de mensajes, cifradores simétricos "
+"(incluyendo AES). Funcionalidad SSL para implementar clientes y servidores. "
+"Extensiones HTTPS de módulos Python httplib, urllib y xmlrpclib. "
 
 #. tumbleweed/python-MarkupSafe/summary
 #. tumbleweed/python3-MarkupSafe/summary
@@ -506,9 +600,8 @@ msgstr ""
 
 #. tumbleweed/python-MySQL-python/summary
 #. leap/python-MySQL-python/summary
-#, fuzzy
 msgid "Python interface to MySQL"
-msgstr "Interfaz C++ para Cairo. Archivos de desarrollo."
+msgstr "Interfaz Python a MySQL"
 
 #. tumbleweed/python-MySQL-python/description
 #. leap/python-MySQL-python/description
